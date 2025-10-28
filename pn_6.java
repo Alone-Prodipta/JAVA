@@ -1,4 +1,5 @@
 //Finding the Greatest Common Division.
+/* More explanation in the C programming repository*/
 import java.util.*;
 class pn_6
 {
@@ -36,4 +37,5 @@ class pn_6
             }
         }
     }
+
 }
