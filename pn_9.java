@@ -1,5 +1,6 @@
 //concating two string
 /*we can use simple '+' operator or concat() function too..*/
+//More explanation are on my C programming repository.
 import java.util.*;
 class pn_9
 {
@@ -36,3 +37,4 @@ class pn_9
     }
 
 }
+
