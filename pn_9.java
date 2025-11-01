@@ -1,4 +1,5 @@
 //concating two string
+/*we can use simple '+' operator or concat() function too..*/
 import java.util.*;
 class pn_9
 {
@@ -19,7 +20,7 @@ class pn_9
         {
             word3[i]= word1.charAt(i);
         }
-        word3[i]=' ';//optional
+        word3[i]=' ';//optional(it actually giving a space between two text.)
         for(j=0;j<len1;j++)
         {
             word3[i+j+1]= word2.charAt(j);
@@ -33,4 +34,5 @@ class pn_9
             System.out.print(word3[i]);
         }
     }
+
 }
